@@ -19,3 +19,4 @@ F:\Projects\RabbitMQ-Docker-Compose\MyDummyApplication\obj\Debug\net6.0\refint\M
 F:\Projects\RabbitMQ-Docker-Compose\MyDummyApplication\obj\Debug\net6.0\MyDummyApplication.pdb
 F:\Projects\RabbitMQ-Docker-Compose\MyDummyApplication\obj\Debug\net6.0\MyDummyApplication.genruntimeconfig.cache
 F:\Projects\RabbitMQ-Docker-Compose\MyDummyApplication\obj\Debug\net6.0\ref\MyDummyApplication.dll
+F:\Projects\RabbitMQ-Docker-Compose\MyDummyApplication\bin\Debug\net6.0\launchSettings.json

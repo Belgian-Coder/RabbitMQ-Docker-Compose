@@ -8,3 +8,4 @@ F:\Projects\RabbitMQ-Docker-Compose\MyDummyApplication\bin\Debug\MyDummyApplicat
 F:\Projects\RabbitMQ-Docker-Compose\MyDummyApplication\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 F:\Projects\RabbitMQ-Docker-Compose\MyDummyApplication\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 F:\Projects\RabbitMQ-Docker-Compose\MyDummyApplication\obj\Debug\docker-compose.dcproj.CopyComplete
+F:\Projects\RabbitMQ-Docker-Compose\MyDummyApplication\bin\Debug\launchSettings.json
